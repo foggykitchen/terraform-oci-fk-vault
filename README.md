@@ -58,6 +58,8 @@ terraform-oci-fk-vault/
 
 All examples demonstrate incremental OCI Vault patterns, starting from a basic Vault and progressing to workload composition.
 
+The `v0.1.0` release intentionally focuses on single-region OCI Vault patterns.
+
 ---
 
 ## Example Usage
