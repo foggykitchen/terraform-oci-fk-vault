@@ -2,7 +2,7 @@
 
 This repository contains a reusable Terraform / OpenTofu module and progressive examples for deploying Oracle Cloud Infrastructure (OCI) Vault, KMS keys, and optional Vault secrets in the FoggyKitchen catalog.
 
-It is part of the [FoggyKitchen.com training ecosystem](https://foggykitchen.com/courses-2/) and is designed to compose cleanly with reusable OCI infrastructure modules such as `terraform-oci-fk-vcn`, `terraform-oci-fk-nsg`, and `terraform-oci-fk-compute`.
+It is part of the [FoggyKitchen.com training ecosystem](https://foggykitchen.com/) and is designed to compose cleanly with reusable OCI infrastructure modules such as `terraform-oci-fk-vcn`, `terraform-oci-fk-nsg`, and `terraform-oci-fk-compute`.
 
 ---
 
