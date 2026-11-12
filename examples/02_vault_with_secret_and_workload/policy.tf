@@ -1,5 +1,5 @@
 module "workload_policy" {
-  source = "git::https://github.com/foggykitchen/terraform-oci-fk-policy.git"
+  source = "git::https://github.com/foggykitchen/terraform-oci-fk-policy.git?ref=v0.1.0"
 
   providers = {
     oci = oci.homeregion
