@@ -1,5 +1,5 @@
 module "compute_nsg" {
-  source = "git::https://github.com/foggykitchen/terraform-oci-fk-nsg.git?ref=v0.1.0"
+  source = "git::https://github.com/foggykitchen/terraform-oci-fk-nsg.git?ref=v0.2.0" # TODO: tag not yet released
 
   name             = "fk-vault-workload-nsg"
   compartment_ocid = var.compartment_ocid
